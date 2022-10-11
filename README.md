@@ -1,1 +1,1 @@
-# coffeshop-practicum
+# coffeeshop-practicum
