@@ -4,7 +4,7 @@
     width: 100%;
   }
 
-  .card__title {
+.card__title {
     font-family: "Inter", Arial, sans-serif;
     font-weight: bold;
     font-size: 20px;
@@ -15,12 +15,12 @@
     margin: 0;
   }
 
-  .card__list {
+.card__list {
     margin: 0;
     padding: 0;
   }
 
-  .card__list-item {
+.card__list-item {
     font-family: "Noto Serif", "Times New Roman", serif;
     display: flex;
     margin-bottom: 16px;
@@ -29,11 +29,11 @@
     color: #ffffff;
   }
 
-  .card__list-item:last-of-type {
+.card__list-item:last-of-type {
     margin-bottom: 0;
   }
-  
-  .card__list-divider {
+
+.card__list-divider {
     flex-grow: 1;
     border-bottom: 1px solid #ffffff;
     margin-bottom: 4px;
